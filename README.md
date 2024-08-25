@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamrai&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikpat&label=Profile%20views&color=0e75b6&style=flat" alt="karthikapat" /> </p>
 
 
 
